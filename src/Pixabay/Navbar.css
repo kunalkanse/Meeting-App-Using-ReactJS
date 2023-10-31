@@ -1,0 +1,36 @@
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+    height: 70px;
+    line-height: 70px;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+
+.nav li{
+    list-style-type: none;
+}
+
+.btn{
+    background-color: rgb(11, 126, 49);
+    padding: 15px 40px;
+    border-radius: 30px;
+}
+
+.bgimg{
+    height: 60vh;
+    width: 100%;
+    background-image: url("https://media.istockphoto.com/id/879637826/photo/wood-table-with-blur-light-bokeh-in-dark-night-cafe.jpg?s=612x612&w=0&k=20&c=3CsiIclrXjB097SCVMUUChA01QA2S-WzEwY5RzRNqqg=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 50px;
+}
+
+.bgimg p{
+    align:center;
+}

@@ -1,0 +1,45 @@
+
+*{
+    padding : 0;
+    margin: 0;
+}
+
+.main-article{
+    width: 100%;
+    height: max-content;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.SD{
+    font-size: 80px;
+
+    background: linear-gradient(blue,green,orange,purple);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    
+}
+
+.main-article section{
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+
+}
+
+.navsec2{
+    justify-content: space-between;
+    width: 70%;
+    line-height: 80px;
+}
+
+.navsec3{
+    width: 10%;
+    display: flex;
+    justify-content: space-around;
+    line-height: 80px;
+}

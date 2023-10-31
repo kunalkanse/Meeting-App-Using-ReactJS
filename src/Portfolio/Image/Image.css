@@ -1,0 +1,33 @@
+
+.image-section{
+    width: 100%;
+    height: 80vh;
+     background-image: url('https://previews.123rf.com/images/mimagephotography/mimagephotography1612/mimagephotography161200488/67179733-full-body-portrait-of-smiling-young-black-man-standing-against-wall.jpg');
+}
+
+.image-section{
+    margin: 20px;
+    font-size: 20px;
+}
+
+.image-section h1{
+
+    -webkit-text-fill-color: transparent;
+    color: #000;
+    background: -webkit-image-set("https://i.gifer.com/Vo2o.gif");
+    -webkit-background-clip: text;
+    background-position: 50%;
+    font-size: 50px;
+    padding-top: 10px;
+}
+
+.image-section h2{
+
+    background: -webkit-image-set("https://cdn.dribbble.com/users/8156988/screenshots/16260376/media/d72c6c8fe5a5cded14961afbe4590e2d.gif");
+    -webkit-background-clip: text;
+    background-position: 50%;
+    font-size: 40px;
+
+    -webkit-text-fill-color: transparent;
+    color: white;
+}

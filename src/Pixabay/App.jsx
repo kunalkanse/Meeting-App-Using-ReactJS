@@ -1,6 +1,6 @@
-
 import { useEffect, useState } from 'react'
-import Navbar from './Pixabay2.0/Navbar'
+import './App.css'
+import Navbar from './Pixabay/Navbar.jsx'
 
 const App = () => {
 

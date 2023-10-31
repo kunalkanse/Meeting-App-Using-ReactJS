@@ -2,8 +2,10 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  /* background: url("./Halolab/Halolab_images/Background_image.webp");
-  background-repeat: no-repeat;
-  background-size: cover; */
+}
 
+.secimg{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }

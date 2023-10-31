@@ -1,3 +1,13 @@
+
+body{
+  margin : 0;
+  padding : 0
+}
+
+body div center video{
+  border : 5px solid white;
+}
+
 /* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
